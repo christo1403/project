@@ -1,0 +1,34 @@
+body{
+    /* background-color: #e0ffff */
+    background-color: white;
+}
+
+.row .kanan li{
+    float: left; 
+    list-style: none;
+    width: 15%;
+    line-height: 40px;
+}
+
+.row .kanan li a{
+    color: white;
+}
+
+.row .kanan li a:hover{
+    text-decoration: none;
+    color: #ffbea8;
+}
+.row .kiri {
+    background-color: blue;
+
+}
+.test {
+    float: left;
+}
+/* buat design atas */
+/* .tulisan {
+    width: 50%;
+    color: blue;
+
+
+} */
